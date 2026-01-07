@@ -1,3 +1,5 @@
 This project presents an end-to-end analysis of a digital marketing campaign using Python and statistical techniques. The dataset was analyzed to understand customer behavior, campaign engagement, and conversion performance through descriptive statistics and visual analytics. Key performance indicators such as click-through rate, conversion rate, website visits, time spent on site, and email engagement were evaluated to provide a comprehensive view of marketing effectiveness.
 
 The project further applies an A/B testing framework to compare two simulated campaign variants across multiple KPIs. Statistical hypothesis testing revealed no significant performance differences between the campaign versions, highlighting the importance of data-driven decision-making. By combining KPI scorecards, visual comparisons, and automated insight generation, this project demonstrates how analytics can help organizations avoid unnecessary campaign changes and focus resources on high-impact strategies.
+
+Visit the dashboard: https://insights-spark-42.lovable.app
